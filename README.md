@@ -63,6 +63,15 @@ These are model predictions, **not verified ground-truth labels**.
 
 The notebook includes severity and project distributions, project-level severity analysis, and a confusion matrix.
 
+### Severity Distribution
+![Severity Distribution](severity.png)
+
+### Project Distribution
+![Project Distribution](projects.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion.png)
+
 ## Run the Notebook
 
 1. Open [`AI_Bug_Severity_Prediction.ipynb`](AI_Bug_Severity_Prediction.ipynb) in Google Colab.
