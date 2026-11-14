@@ -1,0 +1,23 @@
+# Dataset
+software_bugs.csv
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
+
+# Environment
+.env
+
+# macOS
+.DS_Store
